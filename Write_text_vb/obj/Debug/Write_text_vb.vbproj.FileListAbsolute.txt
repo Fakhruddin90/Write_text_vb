@@ -1,0 +1,12 @@
+F:\Fakhruddin Study\Projects\Write_text_vb\Write_text_vb\bin\Debug\Write_text_vb.exe.config
+F:\Fakhruddin Study\Projects\Write_text_vb\Write_text_vb\bin\Debug\Write_text_vb.exe
+F:\Fakhruddin Study\Projects\Write_text_vb\Write_text_vb\bin\Debug\Write_text_vb.pdb
+F:\Fakhruddin Study\Projects\Write_text_vb\Write_text_vb\bin\Debug\Write_text_vb.xml
+F:\Fakhruddin Study\Projects\Write_text_vb\Write_text_vb\obj\Debug\Write_text_vb.vbprojAssemblyReference.cache
+F:\Fakhruddin Study\Projects\Write_text_vb\Write_text_vb\obj\Debug\Write_text_vb.Form1.resources
+F:\Fakhruddin Study\Projects\Write_text_vb\Write_text_vb\obj\Debug\Write_text_vb.Resources.resources
+F:\Fakhruddin Study\Projects\Write_text_vb\Write_text_vb\obj\Debug\Write_text_vb.vbproj.GenerateResource.cache
+F:\Fakhruddin Study\Projects\Write_text_vb\Write_text_vb\obj\Debug\Write_text_vb.vbproj.CoreCompileInputs.cache
+F:\Fakhruddin Study\Projects\Write_text_vb\Write_text_vb\obj\Debug\Write_text_vb.exe
+F:\Fakhruddin Study\Projects\Write_text_vb\Write_text_vb\obj\Debug\Write_text_vb.xml
+F:\Fakhruddin Study\Projects\Write_text_vb\Write_text_vb\obj\Debug\Write_text_vb.pdb
